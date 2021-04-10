@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-ArrayList/01-Array-Basics/01-Array-Basics.iml" filepath="$PROJECT_DIR$/01-ArrayList/01-Array-Basics/01-Array-Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-ArrayList/01-ArrayList.iml" filepath="$PROJECT_DIR$/01-ArrayList/01-ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-ArrayList/02-Create-Array-List/02-Create-Array-List.iml" filepath="$PROJECT_DIR$/01-ArrayList/02-Create-Array-List/02-Create-Array-List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-ArrayList/03-Add-Element-in-Array-List/03-Add-Element-in-Array-List.iml" filepath="$PROJECT_DIR$/01-ArrayList/03-Add-Element-in-Array-List/03-Add-Element-in-Array-List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/structures-parent-fullstack12.iml" filepath="$PROJECT_DIR$/structures-parent-fullstack12.iml" />
+    </modules>
+  </component>
+</project>
